@@ -1,7 +1,10 @@
 /*
- * app.c
- *
- *      Author: Ahmed Mostafa
+ ============================================================================
+ Name        : app.c
+ Author      : Ahmed Mostafa
+ Date        : 25 Oct 2023
+ Description : Ultrasonic Distance Measurement System based on ATmega32
+ ============================================================================
  */
 
 
