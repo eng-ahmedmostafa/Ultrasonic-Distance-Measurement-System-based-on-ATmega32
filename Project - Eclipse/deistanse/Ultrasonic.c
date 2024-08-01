@@ -1,8 +1,10 @@
 /*
- * ultrasonic.c
- *
- *
- *      Author: Ahmed Mostafa
+ ============================================================================
+ Name        : ultrasonic.c
+ Author      : Ahmed Mostafa
+ Date        : 23 Oct 2023
+ Description : Ultrasonic Distance Measurement System based on ATmega32
+ ============================================================================
  */
 
 #include"icu.h"
